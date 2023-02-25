@@ -1,0 +1,12 @@
+.title {
+  font-size: xx-large;
+  font-weight: 800;
+  font-family: Anurati;
+  color: #ed6b5b;
+  background-color: antiquewhite;
+  text-align: center;
+  margin-top: 4vh;
+  margin-left: 75vh;
+  margin-right: 75vh;
+  min-width: 25vh;
+}

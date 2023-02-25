@@ -1,0 +1,6 @@
+export const constant = {
+  SETROBO: "SETROBO",
+  DELETEROBO: "DELETEROBO",
+  ADDROBO: "ADDROBO",
+  SEARCHROBO: "SEARCHROBO",
+};

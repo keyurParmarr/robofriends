@@ -1,0 +1,29 @@
+.robotbox {
+  display: inline-block;
+  border: 5px solid black;
+  margin: 5px;
+  border-radius: 30px;
+  background-color: aquamarine;
+}
+.robotbox:hover {
+  background-color: rgb(72, 190, 72);
+}
+
+.del {
+  text-align: end;
+}
+.delbtn {
+  width: 50px;
+  margin-top: 1px;
+  margin-right: 1px;
+  font-size: larger;
+  background-color: rgb(232, 80, 80);
+  border-radius: 100px;
+  clip-path: polygon();
+}
+.delbtn:hover {
+  background-color: red;
+}
+button:hover {
+  cursor: pointer;
+}

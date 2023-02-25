@@ -1,0 +1,18 @@
+.input {
+  text-align: center;
+  margin: 3vh;
+}
+input {
+  height: 40px;
+  margin-left: 1vh;
+  margin-right: 1vh;
+  width: 30vh;
+}
+button {
+  height: 45px;
+  width: 7vh;
+}
+.add:hover {
+  background-color: rgb(109, 109, 232);
+  color: aliceblue;
+}
